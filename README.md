@@ -58,11 +58,11 @@ The analysis is performed using **Excel Pivot Tables and Charts**, helping trans
 ## 📂 Project Structure
 
 ```text id="structure1"
-📁 Superstore-Sales-Analysis
+Superstore-Sales-Analysis
 │
 ├── Superstore.xlsx        # Sample dataset 
 ├── Superstore_Report.pdf  # Final insights report (full dataset)
-├── images                 # Sample visualizations
+├── images/                # Sample visualizations
 └── README.md
 ```
 
