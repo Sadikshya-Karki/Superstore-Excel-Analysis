@@ -85,13 +85,5 @@ Superstore-Sales-Analysis/
 
 ---
 
-## 💡 Future Improvements
-- Build a Power BI dashboard version  
-- Add interactive slicers for dynamic filtering  
-- Automate reporting using Python + Excel integration  
-- Perform predictive sales forecasting  
-
----
-
 ## 👤 Author
 **Sadikshya Karki**
